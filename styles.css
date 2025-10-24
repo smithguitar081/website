@@ -58,6 +58,11 @@ body {
 
 .nav-links a:hover {
   opacity: 0.7;
+
+  @media (max-width: 600px) {
+  header h1 {
+    font-size: 1.8em;
+    padding: 10px;
 }
 
 .hero {
