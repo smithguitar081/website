@@ -32,7 +32,7 @@ body {
   color: white;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   gap: 1px;
   word-spacing: -5px;
   padding: 0 40px;
