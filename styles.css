@@ -64,7 +64,7 @@ body {
 
 }
 
-@media (max-width:600px) {
+@media (max-width:500px) {
   .nav-links {
     gap: 1px;
     font-size: 0.9rem;
