@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+}
+
+.hero {
+  background: url('images/glass-head.png') center/cover fixed no-repeat;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 40px;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.hero p {
+  color: #ccc;
+  font-size: 1.2rem;
+}
+
+.music {
+  padding: 40px 0;
+}
+
+.track {
+  margin: 20px 0;
+}
+
+.buy-button {
+  display: inline-block;
+  margin-top: 10px;
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.buy-button:hover {
+  background-color: #fff;
+  color: #000;
+}
+
+footer {
+  padding: 20px;
+  border-top: 1px solid #333;
+  color: #777;
+  font-size: 0.9rem;
+}
