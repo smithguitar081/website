@@ -51,6 +51,7 @@ body {
   text-decoration: none;
   margin-left: 40px;
   margin-right: 40px;
+  word-spacing: normal;
   font-size: 1rem;
   transition: opacity 0.5s ease;
 }
