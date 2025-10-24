@@ -67,14 +67,6 @@ body {
 }
 
 /* --- Responsive Adjustments --- */
-@media (max-width: 768px) {
-  .navbar {
-    height: auto;              /* allow navbar height to adjust */
-    flex-direction: column;    /* stack logo and links vertically */
-    align-items: center;
-    padding: 10px 20px;
-    text-align: center;
-  }
 
   .navbar .logo {
     font-size: 1.2rem;
