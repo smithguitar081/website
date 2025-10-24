@@ -64,6 +64,13 @@ body {
 
 }
 
+@media (max-width:600px) {
+  .nav-links {
+    gap: 10px;
+    font-size: 0.9rem;
+  }
+}
+
 .hero {
   background: url('images/glass-head.png') center/cover fixed no-repeat;
   height: 100vh;
